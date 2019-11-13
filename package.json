@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://myname.github.io/redux_todoList/build",
   "eslintConfig": {
     "extends": "react-app"
   },
